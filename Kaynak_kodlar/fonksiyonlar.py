@@ -1,7 +1,8 @@
 import pyodbc
 
-server = 'TINGIR\\SQLEXPRESS'
-database = 'FinalOdev'
+# Veri tabanı bağlantısı için SQL Server bilgilerinizi alt kısımda girebilirsiniz.
+server = ''
+database = ''
 username = ''
 password = ''
 
